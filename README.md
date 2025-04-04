@@ -9,6 +9,14 @@
 - step 5: run this command `python regression_analysis.py`
 - That's all you will see the output.
 
+## linux steps
+
+- `source start.sh` : doing first time.
+
+------------
+
+- 
+
 ## output
 
 ![alt text](./output/image.png)
