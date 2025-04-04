@@ -2,7 +2,10 @@
 
 - clone this or download and unzip this project.
 - Make sure to open you command prompt in desired folder.  use command `cmd`
-- `start-windows` in windows
+
+- `start-windows` in windows (1)
+- `run-windows` in windows (2)
+
 - `source start.sh` in linux
 
 
